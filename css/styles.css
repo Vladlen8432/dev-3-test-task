@@ -80,9 +80,11 @@ button {
 }
 
 .selected {
-  background-color: #add8e6;
+  background-color: #b6b6b4;
+  color: #1d1d1d;
 }
 
 .highlight {
-  background-color: #add8e6;
+  background-color: #b6b6b4;
+  color: #1d1d1d;
 }
